@@ -10,7 +10,7 @@ function Header() {
 }
 
 function Footer() {
-  return <footer>&copy; Chidike Henry Chizoba</footer>;
+  return <footer>&copy; Chidera Okemeziem</footer>;
 }
 
 function SubBody({ num1, num2, operation }) {
