@@ -1,4 +1,6 @@
 # ReactJS_calculator_task_A
+![WhatsApp Image 2023-08-13 at 23 09 55](https://github.com/lacegiovanni17/ReactJS_calculator_task_A/assets/30509335/d7132b79-336e-4601-9dba-27c06b4f8de7)
+
 ### [Live Site]()
 
 ## About
