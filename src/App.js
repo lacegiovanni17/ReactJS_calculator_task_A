@@ -2,11 +2,15 @@ import React, { useState } from "react";
 import "./App.css";
 
 function Header() {
-  return <header className="banner">Header Banner</header>;
+  return (
+    <header className="banner">
+      <img src="twitter_1529723220.jpeg" alt="Header Banner" />
+    </header>
+  );
 }
 
 function Footer() {
-  return <footer>&copy; Your Name</footer>;
+  return <footer>&copy; Chidike Henry Chizoba</footer>;
 }
 
 function SubBody({ num1, num2, operation }) {
