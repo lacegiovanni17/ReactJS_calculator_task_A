@@ -11,8 +11,8 @@
 * 📫 How to reach me chidike.henry@gmail.com
 
 ## Introduction
-The purpose of this assessment is to evaluate my abilities in creating a backend application for a conversational bot that confirms flight bookings.
-This project will allow you to assess my proficiency in backend development, API integration, and my problem-solving approach.
+The purpose of this assessment is to evaluate my abilities in creating a frontend application for a calculator that renders calculations after taking  in inputs and operands with ReactJS
+This project will allow you to assess my proficiency in fronted development, javascript, ReactJS, and my problem-solving approach.
 
 ## Technologies Used
 * ReactJS
@@ -43,14 +43,14 @@ Follow these steps to set up and run the ReactJS_calculator_task_A:
 1. Ensure you have Node.js installed on your machine. You can download it from nodejs.org.
 ## Installation
 1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd flight_booking_backend`
+2. Navigate to the project directory: `cd react_task`
 3. Install dependencies: `npm install`
-4. note: flights.json and bookings.json are the mock databases for this project
+4. note: the public folder contains all pictures necessary for the frontend
 
 ## Running the App from your terminal
-1. From the root directory change to the src folder by running the following command `cd src`
-2. From the src folder run the following command to start the backend server: `node app.js`
-3. The backend server will be running at http://localhost:3000.
+1. From the terminal make sure you're in the root directory called react_task 
+2. From the react_task folder run the following command to render the front-end: `npm start`
+3. The server will be running at http://localhost:3000.
 
    
 
@@ -73,7 +73,7 @@ Contributions, issues, critics and feature requests are welcome!
 Please give a ⭐️ if you like this project! 
 
 ## Acknowledgments
-- Hat tip to Clan Africa
+- Hat tip to school
 - Inspiration
 - etc
 
