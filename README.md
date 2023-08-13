@@ -6,7 +6,7 @@
 ## About
 * 👋 Hi, I’m Chidike Henry 
 * 😎 I’m a MERN full-stack engineer
-* 💻 This is a backend code for a flight booking app
+* 💻 This is a frontend code for a calculator app
 * 💞️ I’m looking to collaborate on JS projects 
 * 📫 How to reach me chidike.henry@gmail.com
 
